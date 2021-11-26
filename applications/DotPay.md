@@ -219,12 +219,12 @@ All team members can contact privately for any specific information.
 
 * **Total Estimated Duration:** 16 weeks
 * **Full-time equivalent (FTE):**  3
-* **Total Costs:** 0.84 BTC (equivalent to $48000)
+* **Total Costs:**  4,8000 USD
 
 ### Milestone 1 — Product design & Develop documents
 * **Estimated Duration:** 2 weeks
 * **FTE:**  2.5
-* **Costs:** 0.14 BTC (equivalent to $8000)
+* **Costs:**  8,000 USD
 
 1. website PRD 
 2. Provide design documents
@@ -233,7 +233,7 @@ All team members can contact privately for any specific information.
 ### Milestone 2 — Core module development
 * **Estimated Duration:** 4 weeks
 * **FTE:**  4
-* **Costs:** 0.21 BTC (equivalent to $12000)
+* **Costs:**  10,000 USD
 
 1. task management
 2. Task creation and transfer module development completed
@@ -242,7 +242,7 @@ All team members can contact privately for any specific information.
 ### Milestone 3 — Development
 * **Estimated Duration:** 4 weeks
 * **FTE:**  4
-* **Costs:** 0.21 BTC (equivalent to $12000)
+* **Costs:** 10,000 USD
 
 1.  Core functions are basically available
 2.  Source code / documentation / basic available website
@@ -250,7 +250,7 @@ All team members can contact privately for any specific information.
 ### Milestone 4 — Tests
 * **Estimated Duration:** 2 weeks
 * **FTE:**  2
-* **Costs:** 0.14 BTC (equivalent to $8000) 
+* **Costs:** 10,000 USD
 
 1. Automated test cases and test reports
 2. All functions of the website are completed
@@ -258,7 +258,7 @@ All team members can contact privately for any specific information.
 ### Milestone 5 — Production & Promoted Products
 * **Estimated Duration:** 2 weeks
 * **FTE:**  3
-* **Costs:** 0.14 BTC (equivalent to $8000) 
+* **Costs:** 10,000 USD 
 
 1. The number of registered users, projects and paid collaboration tasks of the website have reached our planned number
 - Server cost
