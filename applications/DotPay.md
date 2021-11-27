@@ -284,7 +284,7 @@ All team members can contact privately for any specific information.
 
 ## Future Plans
 
--  In our long term plan, we will support more payment scenarios, such as website recharge VIP and online payment to buy goods after completing this grant.
+-  About our future plan, we will support more payment scenarios, such as website recharge VIP and online payment to buy goods after completing this grant.
 -  And then, we are going to support more platforms to expand the number of users, not only completing paid tasks on Github , but also on Telegram, Discord, Twitter, etc,
    and We also have an idea that cross-chain cooperation with other project.
 -  After that, We will launch our own Polkadot para-chain tokens and the open source developers will receive  tokens by completing the paid tasks on Github.
