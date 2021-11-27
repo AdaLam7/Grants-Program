@@ -239,6 +239,22 @@ All team members can contact privately for any specific information.
 2. Task creation and transfer module development completed
 3.  Source code / Accessible pages but not fully functional
 
+
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0 | License | Apache 2.0 |
+| 1 | User management | Using github OAuth2 login |
+| 2 | Payment Secrect management | create it on page and config it to github secrect to pay user DOT.|
+| 3 | Recharge module | User recharge DOT if they want to pay others on git.|
+| 4 | Withdraw module | User withdraw there dot to their own wallet.|
+| 5 | Github webhook management | listen hook and triggle payment.|
+| 6 | Email imformal module | imformal user to withdraw their DOT.|
+| 7 | Email imformal module | imformal user to withdraw their DOT.|
+| 8 | Documents & Test website | You can try the test website.|
+
+
+
 ### Milestone 3 — Development
 * **Estimated Duration:** 4 weeks
 * **FTE:**  4
@@ -264,18 +280,6 @@ All team members can contact privately for any specific information.
 - Server cost
 - Ads to Promoted Products.
 
-
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0 | License | Apache 2.0 |
-| 1 | User management | Using github OAuth2 login |
-| 2 | Payment Secrect management | create it on page and config it to github secrect to pay user DOT.|
-| 3 | Recharge module | User recharge DOT if they want to pay others on git.|
-| 4 | Withdraw module | User withdraw there dot to their own wallet.|
-| 5 | Github webhook management | listen hook and triggle payment.|
-| 6 | Email imformal module | imformal user to withdraw their DOT.|
-| 7 | Email imformal module | imformal user to withdraw their DOT.|
-| 8 | Documents & Test website | You can try the test website.|
 
 
 ## Future Plans
