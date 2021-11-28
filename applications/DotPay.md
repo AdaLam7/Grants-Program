@@ -2,7 +2,7 @@
 
 - **Project Name:** DOT PAY
 - **Team Name:** Crypto Pay Lab (CPL)
-- **Payment Address:**  3CnxDH6myTaK6MVy3SawVF2FC6FdgfK8pj 
+- **Payment Address:**  3CnxDH6myTaK6MVy3SawVF2FC6FdgfK8pj （BTC address）
 - **[Level]:** 2
 
 
