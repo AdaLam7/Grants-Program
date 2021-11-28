@@ -277,8 +277,7 @@ All team members can contact privately for any specific information.
 * **Costs:** 10,000 USD 
 
 1. The number of registered users, projects and paid collaboration tasks of the website have reached our planned number
-- Server cost
-- Ads to Promoted Products.
+
 
 
 
