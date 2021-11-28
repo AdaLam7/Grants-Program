@@ -141,7 +141,7 @@ Command line in issue reply: `/pay Bob 10DOT`
 
 As far as I am concerned, there are no similar projects in Polkadot  ecosystem. 
 Maybe we have some similarities with gitcoin, there are still many differences , what's more important is we prefer to realize open source payment cooperation in Polkadot ecosystem. As we all know Polkadot offers flexible cross-chain interoperation functionality with a large user base and volume expectation, and as a mainstream cryptocurrency with high market value, DOT tokens is easier for developers to accept and be recognized，and we also believe that we will attract more Github developers especially who not familiar with blockchain to join and expand the user-number of Polkadot ecosystem.
-a
+
 
 ## Team :busts_in_silhouette:
 
