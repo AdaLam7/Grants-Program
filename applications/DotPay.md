@@ -211,7 +211,15 @@ we will be pleased to offer specific information in private.
 
 ### Team Code Repos
 
-All team members can contact privately for any specific information.
+https://github.com/bytepayment 组织地址 
+
+https://github.com/bytepayment/bytepay  代码仓库地址
+
+
+### Team LinkedIn Profiles
+
+provide in private through Google Form.
+
 
 ## Development Roadmap :nut_and_bolt:
 
