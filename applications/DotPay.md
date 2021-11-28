@@ -287,7 +287,7 @@ The function that can be experienced at this time is that the employer only need
 
 ## Development Status
 
-we have developed the webhook event processing module
+We have developed the webhook event processing module.
 
 
 ## Future Plans
