@@ -281,7 +281,7 @@ provide in private through Google Form.
 * **Costs:** 10,000 USD 
 
 1. GitHub contribution data analysis, according to the contribution of each developer to allocate rewards.
-The function that can be experienced at this time is that the employer only needs to fill in the total amount of the reward, and the contributor will automatically receive the reward. 
+The function that can be experienced at this time is that the employer only needs to fill in the total amount of the reward, and all the contributors will automatically receive the reward. 
 2. Spending analysis graph, employers can see the reward pie chart of each contributor.
 
 ## Future Plans
