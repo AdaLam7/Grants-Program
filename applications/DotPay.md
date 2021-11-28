@@ -211,9 +211,9 @@ we will be pleased to offer specific information in private.
 
 ### Team Code Repos
 
-https://github.com/bytepayment 组织地址 
+https://github.com/bytepayment 
 
-https://github.com/bytepayment/bytepay  代码仓库地址
+https://github.com/bytepayment/bytepay  
 
 
 ### Team LinkedIn Profiles
@@ -283,6 +283,12 @@ provide in private through Google Form.
 1. GitHub contribution data analysis, according to the contribution of each developer to allocate rewards.
 The function that can be experienced at this time is that the employer only needs to fill in the total amount of the reward, and all the contributors will automatically receive the reward. 
 2. Spending analysis graph, employers can see the reward pie chart of each contributor.
+
+
+## Development Status
+
+we have developed the webhook event processing module
+
 
 ## Future Plans
 
