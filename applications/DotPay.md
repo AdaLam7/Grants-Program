@@ -186,7 +186,7 @@ All team members can contact privately for any specific information.
    - Andriod/IOS front-end engineer with 5 years working experience.
  
 * Peng Qiao: 
-   - A core member of AI research institute of a top AI listed company in China with 5 years working experience.
+   - A core member of AI Research Institute wich is one of the top AI listed companies in China with 5 years working experience.
  
 * Wei Zhang:
    - An advertising director, one of the top AI listed companies in China with 7 years of rich working experience.
