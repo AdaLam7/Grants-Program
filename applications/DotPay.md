@@ -247,8 +247,6 @@ provide in private through Google Form.
 2. Task creation and transfer module development completed
 3.  Source code / Accessible pages but not fully functional
 
-
-
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0 | License | Apache 2.0 |
@@ -260,8 +258,6 @@ provide in private through Google Form.
 | 6 | Email imformal module | imformal user to withdraw their DOT.|
 | 7 | Email imformal module | imformal user to withdraw their DOT.|
 | 8 | Documents & Test website | You can try the test website.|
-
-
 
 ### Milestone 3 — Development
 * **Estimated Duration:** 4 weeks
@@ -284,10 +280,9 @@ provide in private through Google Form.
 * **FTE:**  3
 * **Costs:** 10,000 USD 
 
-1. The number of registered users, projects and paid collaboration tasks of the website have reached our planned number
-
-
-
+1. GitHub contribution data analysis, according to the contribution of each developer to allocate rewards.
+The function that can be experienced at this time is that the employer only needs to fill in the total amount of the reward, and the contributor will automatically receive the reward. 
+2. Spending analysis graph, employers can see the reward pie chart of each contributor.
 
 ## Future Plans
 
