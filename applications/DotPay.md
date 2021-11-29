@@ -140,7 +140,7 @@ Command line in issue reply: `/pay Bob 10DOT`
 ### Ecosystem Fit
 
 As far as I am concerned, there are no similar projects in Polkadot  ecosystem. 
-Maybe we have some similarities with gitcoin, there are still many differences , what's more important is we prefer to realize open source payment cooperation in Polkadot ecosystem. As we all know Polkadot offers flexible cross-chain interoperation functionality with a large user base and volume expectation, and as a mainstream cryptocurrency with high market value, DOT tokens is easier for developers to accept and be recognized，and we also believe that we will attract more Github developers especially who not familiar with blockchain to join and expand the user-number of Polkadot ecosystem.
+Maybe we have some similarities with gitcoin, there are still many differences ,dotpay will focus on open-source payment collaboration, deep integration with GitHub, closer to end-users，what's more important is we prefer to realize open source payment cooperation in Polkadot ecosystem. As we all know Polkadot offers flexible cross-chain interoperation functionality with a large user base and volume expectation, and as a mainstream cryptocurrency with high market value, DOT tokens is easier for developers to accept and be recognized，and we also believe that we will attract more Github developers especially who not familiar with blockchain to join and expand the user-number of Polkadot ecosystem.
 
 
 ## Team :busts_in_silhouette:
@@ -218,7 +218,7 @@ https://github.com/bytepayment/bytepay
 
 ### Team LinkedIn Profiles
 
-provide in private through Google Form.
+we have provided in private through Google Form.
 
 
 ## Development Roadmap :nut_and_bolt:
@@ -227,12 +227,12 @@ provide in private through Google Form.
 
 * **Total Estimated Duration:** 16 weeks
 * **Full-time equivalent (FTE):**  3
-* **Total Costs:**  4,8000 USD
+* **Total Costs:**  48，000 USD
 
 ### Milestone 1 — Product design & Develop documents
 * **Estimated Duration:** 2 weeks
 * **FTE:**  2.5
-* **Costs:**  8,000 USD
+* **Costs:**  48,000 USD
 
 1. website PRD 
 2. Provide design documents
@@ -245,7 +245,7 @@ provide in private through Google Form.
 
 1. task management
 2. Task creation and transfer module development completed
-3.  Source code / Accessible pages but not fully functional
+3. Source code / Accessible pages but not fully functional
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
