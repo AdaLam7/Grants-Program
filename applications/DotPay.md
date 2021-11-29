@@ -227,7 +227,7 @@ we have provided in private through Google Form.
 
 * **Total Estimated Duration:** 16 weeks
 * **Full-time equivalent (FTE):**  3
-* **Total Costs:**  48，000 USD
+* **Total Costs:**  48,000 USD
 
 ### Milestone 1 — Product design & Develop documents
 * **Estimated Duration:** 2 weeks
@@ -287,8 +287,11 @@ The function that can be experienced at this time is that the employer only need
 
 ## Development Status
 
-We have developed the webhook event processing module.
+https://github.com/bytepayment/bytepay
 
+We have developed the webhook event processing module.
+The following is a brief description of what the repository contains。
+Including GitHub webhook server，it can listen to GitHub events, handle some specific instructions in the issue, and extend the instruction processor。
 
 ## Future Plans
 
