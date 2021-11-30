@@ -232,7 +232,7 @@ we have provided in private through Google Form.
 ### Milestone 1 — Product design & Develop documents
 * **Estimated Duration:** 2 weeks
 * **FTE:**  2.5
-* **Costs:**  48,000 USD
+* **Costs:**  8,000 USD
 
 1. website PRD 
 2. Provide design documents
