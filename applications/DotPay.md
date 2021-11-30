@@ -5,7 +5,6 @@
 - **Payment Address:**  3CnxDH6myTaK6MVy3SawVF2FC6FdgfK8pj （BTC address）
 - **[Level]:** 2
 
-
 ### Overview
 
 DotPay is a platform that supports paid tasks to complete open source projects on Github.
@@ -14,33 +13,24 @@ Our mission is:
 - Attract more Github developers, especially who are not familiar with blockchain to expand the user-number of Polkadot ecosystem.
 - Earn DOT tokens by completing open source tasks to encourage Github developers to communicate, cooperate and innovate with each other.
 
-
 ### Project Details
 
 Page 1: task list
 ![image](https://user-images.githubusercontent.com/94216827/142724732-b7675c28-bfbb-492d-9f9e-e7ba53c9f4a0.png)
 
-
 Page 2: Configure Github webhook
 ![image](https://user-images.githubusercontent.com/94216827/142724798-20a0409d-195a-47b9-ba3b-01c6c647eab5.png)
-
 
 Page 3: Recharge
 ![image](https://user-images.githubusercontent.com/94216827/142724518-a22d1760-eeb8-4399-b0ac-e04348002beb.png)
 
-
 Page 4: Creat tasks and trigger the payment 
 ![image](https://user-images.githubusercontent.com/94216827/142757369-7bb816ae-b834-4a80-a562-8bb21da0624f.png)
-
-
 
 Page 5: You can withdraw  DOT tokens from the exclusive account of our platform to your other wallets (such as Polka Wallet , MetaMask ,etc)
 ![image](https://user-images.githubusercontent.com/94216827/142724667-f216d119-b44a-4f46-9501-18e38a35ca82.png)
 
-
-
 ### Flow-process diagram
-
 
 ![image](https://user-images.githubusercontent.com/94216827/142736787-f9bdb340-8703-48b5-9b5a-24dd70f42f08.png)
 
@@ -56,10 +46,7 @@ Exclusive account Wallet.
 5. trigger on chain transfer.
 6. Bob withdraws 10 DOT tokens from our platform to his wallet(such as Polkawallet or MetaMask)
 
-
-
 ### Data models / API specifications of the core functionality
-
 
 > Create tasks
 
@@ -100,16 +87,12 @@ Command line in issue reply: `/pay Bob 10DOT`
 }
 ```
 
-
-
 ### An overview of the technology stack to be used
 
 * Font-end, typescipt,react
 * Backend, golang,Rust
 * Devops, github action, kubenretes
 * Search, MeiliSearch
-
-
 
 ### Key Functions
 
@@ -135,16 +118,12 @@ Command line in issue reply: `/pay Bob 10DOT`
 6. Payment secrect management 
     - Create it on DotPay website and config it to github secrect to pay user DOT.
 
-
-
 ### Ecosystem Fit
 
 As far as I am concerned, there are no similar projects in Polkadot  ecosystem. 
 Maybe we have some similarities with gitcoin, there are still many differences ,dotpay will focus on open-source payment collaboration, deep integration with GitHub, closer to end-users，what's more important is we prefer to realize open source payment cooperation in Polkadot ecosystem. As we all know Polkadot offers flexible cross-chain interoperation functionality with a large user base and volume expectation, and as a mainstream cryptocurrency with high market value, DOT tokens is easier for developers to accept and be recognized，and we also believe that we will attract more Github developers especially who not familiar with blockchain to join and expand the user-number of Polkadot ecosystem.
 
-
 ## Team :busts_in_silhouette:
-
 
 ### Team members 
 
@@ -170,10 +149,7 @@ All team members can contact privately for any specific information.
 * AdaLam:  PD/PMO  
   - Responsible for product design and project schedule management.
  
- 
- 
 ### Team's Experience
-
 
 * Richard Fang:
     - As an expert in the field of cloud computing in one of the biggested Internet listed companies with 7 years of rich working  experience. 
@@ -194,7 +170,6 @@ All team members can contact privately for any specific information.
 * AdaLam: PD/PMO
   - Familiar with product design and project schedule management.
 
-
 ### Contact
 
 - **Contact Name:**  AdaLam
@@ -208,18 +183,15 @@ All team members can contact privately for any specific information.
 
 we will be pleased to offer specific information in private.
 
-
 ### Team Code Repos
 
 https://github.com/bytepayment 
 
 https://github.com/bytepayment/bytepay  
 
-
 ### Team LinkedIn Profiles
 
 we have provided in private through Google Form.
-
 
 ## Development Roadmap :nut_and_bolt:
 
@@ -229,61 +201,66 @@ we have provided in private through Google Form.
 * **Full-time equivalent (FTE):**  3
 * **Total Costs:**  48,000 USD
 
-### Milestone 1 — Product design & Develop documents
+### Milestone 1 — Homepage & User management & repo management
 * **Estimated Duration:** 2 weeks
 * **FTE:**  2.5
 * **Costs:**  8,000 USD
 
-1. website PRD 
-2. Provide design documents
-3. Website home page
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0 | License | Apache 2.0 |
+| 1 | Repo & Homepage | Now you can access `https://bytepayment.network`, provide the page source code |
+| 1 | User management | You can login our website using github |
+| 2 | User Group | Show your all git hub user group |
+| 3 | User Repo management | Show your github repo list, and group repo list |
+| 4 | Webhook settings | You can active a project in our platform to auto config a github webhook |
 
 ### Milestone 2 — Core module development
 * **Estimated Duration:** 4 weeks
-* **FTE:**  4
-* **Costs:**  10,000 USD
-
-1. task management
-2. Task creation and transfer module development completed
-3. Source code / Accessible pages but not fully functional
+* **FTE:**  5
+* **Costs:**  15,000 USD
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0 | License | Apache 2.0 |
-| 1 | User management | Using github OAuth2 login |
-| 2 | Payment Secrect management | create it on page and config it to github secrect to pay user DOT.|
-| 3 | Recharge module | User recharge DOT if they want to pay others on git.|
-| 4 | Withdraw module | User withdraw there dot to their own wallet.|
-| 5 | Github webhook management | listen hook and triggle payment.|
-| 6 | Email imformal module | imformal user to withdraw their DOT.|
-| 7 | Email imformal module | imformal user to withdraw their DOT.|
-| 8 | Documents & Test website | You can try the test website.|
+| 1 | Task management | You can create a paid task by comment an issue, it will tigger the create task event though the webhook, and webhook server will save the task and show it on our page |
+| 2 | Recharge management | You can recharge DOT to your platform account |
+| 3 | Tansfer module | You can trigger a payment by comment an issue, like `/pay Bob 10DOT`, the DOT will transfer to Bob platform account |
 
-### Milestone 3 — Development
+### Milestone 3 - Other module & security
 * **Estimated Duration:** 4 weeks
 * **FTE:**  4
-* **Costs:** 10,000 USD
+* **Costs:** 13,000 USD
 
-1.  Core functions are basically available
-2.  Source code / documentation / basic available website
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0 | Informal | Bob will receive the event, tell him how to withdraw DOT in our platform, robot will send Bob email and comment the issue |
+| 1 | Withdraw module | Bob can withdraw the DOT from our platform to his own wallet |
+| 2 | Security | Using security webhook. Encrypted storage of mnemonic words. Make sure if Alice tigger an error payment that we can found DOT back, for example Bob needs withdraw it after a week |
+| 3 | Task search module | Issue full text search, you can using search button to search the task you interested |
 
 ### Milestone 4 — Tests
 * **Estimated Duration:** 2 weeks
-* **FTE:**  2
-* **Costs:** 10,000 USD
+* **FTE:**  3
+* **Costs:** 5,000 USD
 
-1. Automated test cases and test reports
-2. All functions of the website are completed
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0 | CI/CD manifests | Dockerfile, kubernetes yaml or helm chart, github CI/CD actions |
+| 1 | E2E full test cases | Auto tests powered by https://github.com/cypress-io/cypress |
+| 2 | API test cases | Full API test cases, source code and test report |
+| 3 | Unit test | 50% coverage unit test, show test report |
 
-### Milestone 5 — Production & Promoted Products
+### Milestone 5 — Data analysis system
 * **Estimated Duration:** 2 weeks
 * **FTE:**  3
-* **Costs:** 10,000 USD 
+* **Costs:** 7,000 USD 
 
-1. GitHub contribution data analysis, according to the contribution of each developer to allocate rewards.
-The function that can be experienced at this time is that the employer only needs to fill in the total amount of the reward, and all the contributors will automatically receive the reward. 
-2. Spending analysis graph, employers can see the reward pie chart of each contributor.
-
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0 | Auto payment by data analysis | GitHub contribution data analysis, according to the contribution of each developer to allocate rewards. The function that can be experienced at this time is that the employer only needs to fill in the total amount of the reward, and all the contributors will automatically receive the reward.|
+| 1 | Data analysis graph | employers can see the reward pie chart of each contributor, Summary of monthly expenditure information. |
+| 2 | Platform data | User/repo/task data, Growth data graph，Task completion rate |
 
 ## Development Status
 
